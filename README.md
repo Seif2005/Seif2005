@@ -25,23 +25,6 @@ I’m passionate about building impactful software solutions and solving challen
 
 ---
 
-## 💼 Experience  
-
-- **Software Engineering Intern @ PwC ETIC (2025–Present)**  
-  - Built an internal **RAG chatbot with Gemini Pro 2.5** to streamline knowledge access.  
-  - Designed and implemented **Node.js Layer Gateways**, enhancing scalability & efficiency.  
-
-- **Founding Team Member & Software Engineer @ ApexCoach (2025–Present)**  
-  - Co-created a **fitness coaching startup platform** using Next.js, .NET, and PostgreSQL.  
-  - Contributed across all layers: backend, database, and frontend implementation.  
-
-- **Intern @ Vodafone Intelligent Solutions (2024)**  
-  - Worked on a **Vacation Planner App** with React & Redux in a 10-member team.  
-
-- **Intern @ CrossWorkers (2023)**  
-  - Led a **3-member backend team** building a Soccer API using C#, EF Core, SQL Server.  
-
----
 
 ## 📂 Featured Projects  
 
@@ -58,7 +41,6 @@ I’m passionate about building impactful software solutions and solving challen
 - 🥉 **34th place out of 200+ teams** – ECPC (Egyptian Collegiate Programming Contest) Qualification Round.  
 - ✅ **Meta Front-End Developer Certificate** – Built and deployed Little Lemon App.  
 - 🎓 **Harvard’s CS50x Graduate** – Completed with *Booky* as the final project.  
-- 🔥 Solved **500+ problems** across Codeforces, LeetCode & other platforms.  
 
 ---
 
