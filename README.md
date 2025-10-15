@@ -40,7 +40,7 @@ I’m passionate about building impactful software solutions and solving challen
 
 - 🥉 **34th place out of 200+ teams** – ECPC (Egyptian Collegiate Programming Contest) Qualification Round.  
 - ✅ **Meta Front-End Developer Certificate** – Built and deployed Little Lemon App.  
-- 🎓 **Harvard’s CS50x Graduate** – Completed with *Booky* as the final project.  
+- 🎓 **Harvard’s CS50x Certificate** – Completed with *Booky* as the final project.  
 
 ---
 
